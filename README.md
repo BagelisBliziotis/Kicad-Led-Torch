@@ -26,4 +26,8 @@ You can upload the entire folder directly to any PCB manufacturer (JLCPCB, PCBWa
 - Importance of clean net labels ground  and component placement
 - Difference between breadboard/Arduino prototyping and a real custom PCB 
 
+*Gallery
+3D-View:
+
+<img width="800" height="366" alt="17 04 2026_16 26 39_REC-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/3db2f547-1a9b-4d25-ba85-9dad768958d4" />
 
